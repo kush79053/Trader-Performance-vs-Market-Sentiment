@@ -1,0 +1,9 @@
+frequency_group,classification,Avg_PnL
+Frequent,Extreme Greed,26.658318667153495
+Frequent,Fear,44.22711723388828
+Frequent,Greed,71.25968980591287
+Frequent,Neutral,4.058758962174941
+Infrequent,Extreme Greed,-48.382749043478256
+Infrequent,Fear,91.44257983802946
+Infrequent,Greed,276.73064011538463
+Infrequent,Neutral,351.93752660053616
